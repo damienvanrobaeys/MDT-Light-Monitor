@@ -1,0 +1,5 @@
+<Mail_Infos>
+	<SMTP></SMTP>
+	<MailFrom></MailFrom>
+	<MailTo></MailTo>		
+</Mail_Infos>

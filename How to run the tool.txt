@@ -1,0 +1,3 @@
+Run the script MDT_Monitor_Main.ps1
+If you have an issue to run it use the below command:
+powershell -sta .\MDT_Monitor_Main.ps1
